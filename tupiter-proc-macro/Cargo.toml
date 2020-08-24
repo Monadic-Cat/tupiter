@@ -2,6 +2,7 @@
 name = "tupiter-proc-macro"
 version = "0.1.0"
 authors = ["Monadic Cat <greenmonadcat@gmail.com>"]
+repository = "https://github.com/Monadic-Cat/tupiter"
 description = "tupiter internal proc macro helper"
 license = "MIT OR Apache-2.0"
 edition = "2018"

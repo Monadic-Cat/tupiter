@@ -1,7 +1,8 @@
 [package]
 name = "tupiter"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Monadic Cat <greenmonadcat@gmail.com>"]
+repository = "https://github.com/Monadic-Cat/tupiter"
 documentation = "https://docs.rs/tupiter"
 description = "iterating over tuples"
 readme = "README.md"
